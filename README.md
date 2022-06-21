@@ -6,7 +6,7 @@
 
 - ArrayList
 
-```
+``` Java
     public class ArrayListTest {
 
     private ArrayList<Integer> arrayList = new ArrayList<>();
