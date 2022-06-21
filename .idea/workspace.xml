@@ -1,17 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c4736d9-5ae2-4eb1-9406-b675bd0f0e2c" name="Changes" comment="" />
+    <list default="true" id="0c4736d9-5ae2-4eb1-9406-b675bd0f0e2c" name="Changes" comment="add VectorTest.java">
+      <change beforePath="$PROJECT_DIR$/src/Deque/ArrayDequeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Deque/ArrayDequeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Deque/LinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Deque/LinkedListTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2AsH692rfGIbq22FG48SJukgsqY" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,6 +57,117 @@
       <option name="presentableId" value="Default" />
       <updated>1655791197402</updated>
     </task>
+    <task id="LOCAL-00001" summary="add List">
+      <created>1655791569131</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655791569131</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add Map">
+      <created>1655791635679</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655791635679</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add Set">
+      <created>1655791697484</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1655791697484</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add Sets classes">
+      <created>1655791914636</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1655791914636</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add Maps classes">
+      <created>1655792005939</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1655792005939</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add PriorityQueue.java">
+      <created>1655792062601</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1655792062601</updated>
+    </task>
+    <task id="LOCAL-00007" summary="refactoring and add LinkedListTest.java">
+      <created>1655792369319</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1655792369320</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add ArrayDequeTest.java">
+      <created>1655792900088</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1655792900088</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add ArrayListTest.java">
+      <created>1655793081532</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1655793081532</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add LinkedListTest.java">
+      <created>1655793106842</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1655793106842</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add StackTest.java">
+      <created>1655793126368</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1655793126368</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add VectorTest.java">
+      <created>1655793148977</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1655793148977</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add List" />
+    <MESSAGE value="add Map" />
+    <MESSAGE value="add Set" />
+    <MESSAGE value="add Sets classes" />
+    <MESSAGE value="add Maps classes" />
+    <MESSAGE value="add PriorityQueue.java" />
+    <MESSAGE value="refactoring and add LinkedListTest.java" />
+    <MESSAGE value="add ArrayDequeTest.java" />
+    <MESSAGE value="add ArrayListTest.java" />
+    <MESSAGE value="add LinkedListTest.java" />
+    <MESSAGE value="add StackTest.java" />
+    <MESSAGE value="add VectorTest.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add VectorTest.java" />
   </component>
 </project>
