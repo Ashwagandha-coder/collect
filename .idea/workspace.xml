@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c4736d9-5ae2-4eb1-9406-b675bd0f0e2c" name="Changes" comment="add List">
-      <change afterPath="$PROJECT_DIR$/src/Map/MyMap.java" afterDir="false" />
+    <list default="true" id="0c4736d9-5ae2-4eb1-9406-b675bd0f0e2c" name="Changes" comment="add Sets classes">
+      <change afterPath="$PROJECT_DIR$/src/Map/HashMap/HashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Map/TreeMap/TreeMap.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +64,28 @@
       <option name="project" value="LOCAL" />
       <updated>1655791569131</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add Map">
+      <created>1655791635679</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655791635679</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add Set">
+      <created>1655791697484</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1655791697484</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add Sets classes">
+      <created>1655791914636</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1655791914636</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -79,6 +101,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add List" />
-    <option name="LAST_COMMIT_MESSAGE" value="add List" />
+    <MESSAGE value="add Map" />
+    <MESSAGE value="add Set" />
+    <MESSAGE value="add Sets classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Sets classes" />
   </component>
 </project>
